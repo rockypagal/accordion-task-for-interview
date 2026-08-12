@@ -1,1 +1,2 @@
-# accordion-task-for-interview
+# use - > pnpm i 
+# pnpm run dev
